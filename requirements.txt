@@ -7,3 +7,4 @@ numpy~=2.1.1
 scipy~=1.14.1
 matplotlib~=3.9.2
 seaborn~=0.13.2
+streamlit~=1.38.0
